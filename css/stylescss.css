@@ -78,7 +78,7 @@ body {
     color: #5eab99; }
 
 .welcome aside {
-  background: url("../images/01-Image.jpg") no-repeat bottom;
+  background: url("../images/01-Image.webp") no-repeat bottom;
   background-size: 100% auto;
   height: auto;
   min-height: 200px; }
