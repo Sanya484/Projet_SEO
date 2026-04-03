@@ -300,4 +300,8 @@ footer .partenaire ul li{
 .article .infoBlog {
   font-size: 1rem; }
 
+.btn-success {
+  background-color: #1a7a30;
+  border-color: #1a7a30;
+}
 /*# sourceMappingURL=stylescss.css.map */
